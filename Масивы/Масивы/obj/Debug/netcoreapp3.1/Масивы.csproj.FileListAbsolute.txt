@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.exe
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.deps.json
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.runtimeconfig.json
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.runtimeconfig.dev.json
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.dll
+C:\Users\user\source\repos\Масивы\Масивы\bin\Debug\netcoreapp3.1\Масивы.pdb
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.AssemblyInfo.cs
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.dll
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.pdb
+C:\Users\user\source\repos\Масивы\Масивы\obj\Debug\netcoreapp3.1\Масивы.genruntimeconfig.cache

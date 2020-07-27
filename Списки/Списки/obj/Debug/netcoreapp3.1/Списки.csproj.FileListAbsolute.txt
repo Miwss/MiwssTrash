@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.exe
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.deps.json
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.runtimeconfig.json
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.runtimeconfig.dev.json
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.dll
+C:\Users\user\source\repos\Списки\Списки\bin\Debug\netcoreapp3.1\Списки.pdb
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.AssemblyInfo.cs
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.dll
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.pdb
+C:\Users\user\source\repos\Списки\Списки\obj\Debug\netcoreapp3.1\Списки.genruntimeconfig.cache
