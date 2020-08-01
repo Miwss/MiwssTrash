@@ -3,11 +3,11 @@
 namespace switchq
 {
     class Program
-{
-    static void Main(string[] args)
     {
-        int n = 5, b = 0;
-        switch (n)
+        static void Main(string[] args)
+        {
+            int n = 5, b = 0;
+            switch (n)
             {
                 case 1:
                     b = 5;
@@ -28,6 +28,6 @@ namespace switchq
                     break;
             }
             Console.WriteLine(b);
+        }
     }
-}
 }

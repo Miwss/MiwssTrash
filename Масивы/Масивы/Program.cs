@@ -13,7 +13,7 @@ namespace Масивы
             };
             for (int i = 0; i < names.Length; i++) // черезз цикл фор выводим все варианты
             {
-                Console.Write(names[i] + ", "); // выводим массив строк вна экран
+                Console.Write(names[i] + ", "); // выводим массив строк на экран
             }
             //array[0] = 58;
             //array[4] = 5;

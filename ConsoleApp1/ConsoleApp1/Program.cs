@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1 //Название проекта где работаем
 {
-    class Program 
+    class Program
     {
         static void Main(string[] args)
         {
@@ -15,9 +15,7 @@ namespace ConsoleApp1 //Название проекта где работаем
 
 
             num = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Your number is: " + num);
+            Console.WriteLine("Hello! " + num);
         }
     }
 }
-
-

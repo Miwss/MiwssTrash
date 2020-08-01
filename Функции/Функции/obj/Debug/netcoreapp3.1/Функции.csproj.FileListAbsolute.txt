@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.AssemblyInfo.cs
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.exe
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.deps.json
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.runtimeconfig.json
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.runtimeconfig.dev.json
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.dll
+C:\Users\user\source\repos\Функции\Функции\bin\Debug\netcoreapp3.1\Функции.pdb
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.dll
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.pdb
+C:\Users\user\source\repos\Функции\Функции\obj\Debug\netcoreapp3.1\Функции.genruntimeconfig.cache
