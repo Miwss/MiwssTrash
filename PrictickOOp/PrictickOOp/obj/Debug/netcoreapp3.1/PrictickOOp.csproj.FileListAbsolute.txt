@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.exe
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.deps.json
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.runtimeconfig.json
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.runtimeconfig.dev.json
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.dll
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\bin\Debug\netcoreapp3.1\PrictickOOp.pdb
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.AssemblyInfo.cs
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.dll
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.pdb
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.genruntimeconfig.cache
+C:\Users\user\source\repos\PrictickOOp\PrictickOOp\obj\Debug\netcoreapp3.1\PrictickOOp.csprojAssemblyReference.cache

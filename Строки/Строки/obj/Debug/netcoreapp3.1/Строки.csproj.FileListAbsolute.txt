@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.exe
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.deps.json
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.runtimeconfig.json
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.runtimeconfig.dev.json
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.dll
+C:\Users\user\source\repos\Строки\Строки\bin\Debug\netcoreapp3.1\Строки.pdb
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.AssemblyInfo.cs
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.dll
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.pdb
+C:\Users\user\source\repos\Строки\Строки\obj\Debug\netcoreapp3.1\Строки.genruntimeconfig.cache

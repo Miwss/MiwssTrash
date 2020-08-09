@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.exe
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.deps.json
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.runtimeconfig.json
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.runtimeconfig.dev.json
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.dll
+C:\Users\user\source\repos\CikleForeach\CikleForeach\bin\Debug\netcoreapp3.1\CikleForeach.pdb
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.AssemblyInfo.cs
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.dll
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.pdb
+C:\Users\user\source\repos\CikleForeach\CikleForeach\obj\Debug\netcoreapp3.1\CikleForeach.genruntimeconfig.cache

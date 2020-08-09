@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.exe
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.deps.json
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.runtimeconfig.json
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.runtimeconfig.dev.json
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.dll
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\bin\Debug\netcoreapp3.1\methodANDfunction.pdb
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.AssemblyInfo.cs
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.dll
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.pdb
+C:\Users\user\source\repos\methodANDfunction\methodANDfunction\obj\Debug\netcoreapp3.1\methodANDfunction.genruntimeconfig.cache

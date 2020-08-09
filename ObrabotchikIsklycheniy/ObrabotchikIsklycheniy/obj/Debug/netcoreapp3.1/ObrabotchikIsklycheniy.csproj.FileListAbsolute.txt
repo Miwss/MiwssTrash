@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.exe
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.deps.json
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.runtimeconfig.json
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.runtimeconfig.dev.json
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.dll
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\bin\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.pdb
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.AssemblyInfo.cs
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.dll
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.pdb
+C:\Users\user\source\repos\ObrabotchikIsklycheniy\ObrabotchikIsklycheniy\obj\Debug\netcoreapp3.1\ObrabotchikIsklycheniy.genruntimeconfig.cache
