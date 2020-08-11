@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.exe
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.deps.json
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.runtimeconfig.json
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.runtimeconfig.dev.json
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.dll
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\bin\Debug\netcoreapp3.1\Интерфейсы.pdb
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.AssemblyInfo.cs
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.dll
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.pdb
+C:\Users\user\source\repos\Интерфейсы\Интерфейсы\obj\Debug\netcoreapp3.1\Интерфейсы.genruntimeconfig.cache

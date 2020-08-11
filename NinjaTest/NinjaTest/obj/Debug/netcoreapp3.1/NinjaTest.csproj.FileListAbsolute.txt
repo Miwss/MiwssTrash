@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.exe
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.deps.json
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.runtimeconfig.json
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.dll
+C:\Users\user\source\repos\NinjaTest\NinjaTest\bin\Debug\netcoreapp3.1\NinjaTest.pdb
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.AssemblyInfo.cs
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.dll
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.pdb
+C:\Users\user\source\repos\NinjaTest\NinjaTest\obj\Debug\netcoreapp3.1\NinjaTest.genruntimeconfig.cache

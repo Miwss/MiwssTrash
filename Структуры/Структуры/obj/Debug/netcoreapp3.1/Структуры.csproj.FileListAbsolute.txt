@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.exe
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.deps.json
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.runtimeconfig.json
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.runtimeconfig.dev.json
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.dll
+C:\Users\user\source\repos\Структуры\Структуры\bin\Debug\netcoreapp3.1\Структуры.pdb
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.AssemblyInfo.cs
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.dll
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.pdb
+C:\Users\user\source\repos\Структуры\Структуры\obj\Debug\netcoreapp3.1\Структуры.genruntimeconfig.cache

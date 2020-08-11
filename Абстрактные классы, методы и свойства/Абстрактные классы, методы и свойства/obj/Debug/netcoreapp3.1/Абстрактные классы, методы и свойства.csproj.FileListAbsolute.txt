@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.exe
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.deps.json
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.runtimeconfig.json
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.runtimeconfig.dev.json
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.dll
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\bin\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.pdb
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.AssemblyInfo.cs
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.dll
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.pdb
+C:\Users\user\source\repos\Абстрактные классы, методы и свойства\Абстрактные классы, методы и свойства\obj\Debug\netcoreapp3.1\Абстрактные классы, методы и свойства.genruntimeconfig.cache
