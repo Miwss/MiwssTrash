@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.exe
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.deps.json
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.runtimeconfig.json
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.runtimeconfig.dev.json
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.dll
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\bin\Debug\netcoreapp3.1\Nasledovanie.pdb
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.AssemblyInfo.cs
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.dll
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.pdb
+C:\Users\user\source\repos\Nasledovanie\Nasledovanie\obj\Debug\netcoreapp3.1\Nasledovanie.genruntimeconfig.cache
