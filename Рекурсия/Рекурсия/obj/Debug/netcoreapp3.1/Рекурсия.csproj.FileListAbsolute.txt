@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.exe
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.deps.json
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.runtimeconfig.json
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.runtimeconfig.dev.json
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.dll
+C:\Users\user\source\repos\Рекурсия\Рекурсия\bin\Debug\netcoreapp3.1\Рекурсия.pdb
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.AssemblyInfo.cs
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.dll
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.pdb
+C:\Users\user\source\repos\Рекурсия\Рекурсия\obj\Debug\netcoreapp3.1\Рекурсия.genruntimeconfig.cache
