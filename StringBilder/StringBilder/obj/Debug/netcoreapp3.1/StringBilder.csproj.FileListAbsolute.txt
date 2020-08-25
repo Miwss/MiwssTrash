@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.exe
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.deps.json
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.runtimeconfig.json
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.runtimeconfig.dev.json
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.dll
+C:\Users\user\source\repos\StringBilder\StringBilder\bin\Debug\netcoreapp3.1\StringBilder.pdb
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.AssemblyInfo.cs
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.dll
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.pdb
+C:\Users\user\source\repos\StringBilder\StringBilder\obj\Debug\netcoreapp3.1\StringBilder.genruntimeconfig.cache

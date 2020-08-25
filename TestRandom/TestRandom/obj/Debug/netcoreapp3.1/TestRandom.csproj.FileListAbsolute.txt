@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.exe
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.deps.json
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.runtimeconfig.json
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.runtimeconfig.dev.json
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.dll
+C:\Users\user\source\repos\TestRandom\TestRandom\bin\Debug\netcoreapp3.1\TestRandom.pdb
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.AssemblyInfo.cs
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.dll
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.pdb
+C:\Users\user\source\repos\TestRandom\TestRandom\obj\Debug\netcoreapp3.1\TestRandom.genruntimeconfig.cache

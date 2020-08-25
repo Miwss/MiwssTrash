@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.exe
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.deps.json
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.runtimeconfig.json
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.runtimeconfig.dev.json
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.dll
+C:\Users\user\source\repos\RandomValue\RandomValue\bin\Debug\netcoreapp3.1\RandomValue.pdb
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.AssemblyInfo.cs
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.dll
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.pdb
+C:\Users\user\source\repos\RandomValue\RandomValue\obj\Debug\netcoreapp3.1\RandomValue.genruntimeconfig.cache

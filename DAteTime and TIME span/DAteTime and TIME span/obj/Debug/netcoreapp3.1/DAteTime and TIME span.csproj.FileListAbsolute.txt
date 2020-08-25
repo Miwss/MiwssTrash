@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.exe
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.deps.json
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.runtimeconfig.json
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.runtimeconfig.dev.json
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.dll
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\bin\Debug\netcoreapp3.1\DAteTime and TIME span.pdb
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.AssemblyInfo.cs
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.dll
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.pdb
+C:\Users\user\source\repos\DAteTime and TIME span\DAteTime and TIME span\obj\Debug\netcoreapp3.1\DAteTime and TIME span.genruntimeconfig.cache

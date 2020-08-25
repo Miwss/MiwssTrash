@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.exe
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.deps.json
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.runtimeconfig.json
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.runtimeconfig.dev.json
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.dll
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\bin\Debug\netcoreapp3.1\Чтение файлов дерикторий.pdb
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.AssemblyInfo.cs
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.dll
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.pdb
+C:\Users\user\source\repos\Чтение файлов дерикторий\Чтение файлов дерикторий\obj\Debug\netcoreapp3.1\Чтение файлов дерикторий.genruntimeconfig.cache
