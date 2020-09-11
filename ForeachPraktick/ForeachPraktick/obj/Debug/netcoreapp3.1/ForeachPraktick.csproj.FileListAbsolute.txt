@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.exe
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.deps.json
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.runtimeconfig.json
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.runtimeconfig.dev.json
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.dll
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\bin\Debug\netcoreapp3.1\ForeachPraktick.pdb
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.AssemblyInfo.cs
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.dll
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.pdb
+C:\Users\user\source\repos\ForeachPraktick\ForeachPraktick\obj\Debug\netcoreapp3.1\ForeachPraktick.genruntimeconfig.cache

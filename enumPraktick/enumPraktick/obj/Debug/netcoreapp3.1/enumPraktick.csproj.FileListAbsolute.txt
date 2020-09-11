@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.exe
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.deps.json
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.runtimeconfig.json
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.runtimeconfig.dev.json
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.dll
+C:\Users\user\source\repos\enumPraktick\enumPraktick\bin\Debug\netcoreapp3.1\enumPraktick.pdb
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.AssemblyInfo.cs
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.dll
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.pdb
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.genruntimeconfig.cache
