@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.exe
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.deps.json
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.runtimeconfig.json
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.runtimeconfig.dev.json
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.dll
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\bin\Debug\netcoreapp3.1\EdaArtemiy.pdb
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.AssemblyInfo.cs
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.dll
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.pdb
+C:\Users\user\source\repos\EdaArtemiy\EdaArtemiy\obj\Debug\netcoreapp3.1\EdaArtemiy.genruntimeconfig.cache
