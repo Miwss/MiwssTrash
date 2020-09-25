@@ -10,3 +10,4 @@ C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enu
 C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.dll
 C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.pdb
 C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.genruntimeconfig.cache
+C:\Users\user\source\repos\enumPraktick\enumPraktick\obj\Debug\netcoreapp3.1\enumPraktick.csprojAssemblyReference.cache

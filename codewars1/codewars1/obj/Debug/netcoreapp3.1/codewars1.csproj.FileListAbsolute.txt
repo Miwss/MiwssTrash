@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.exe
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.deps.json
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.runtimeconfig.json
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.runtimeconfig.dev.json
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.dll
+C:\Users\user\source\repos\codewars1\codewars1\bin\Debug\netcoreapp3.1\codewars1.pdb
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.AssemblyInfo.cs
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.dll
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.pdb
+C:\Users\user\source\repos\codewars1\codewars1\obj\Debug\netcoreapp3.1\codewars1.genruntimeconfig.cache

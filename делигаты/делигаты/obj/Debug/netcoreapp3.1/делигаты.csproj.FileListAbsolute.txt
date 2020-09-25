@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.exe
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.deps.json
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.runtimeconfig.json
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.runtimeconfig.dev.json
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.dll
+C:\Users\user\source\repos\делигаты\делигаты\bin\Debug\netcoreapp3.1\делигаты.pdb
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.AssemblyInfo.cs
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.dll
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.pdb
+C:\Users\user\source\repos\делигаты\делигаты\obj\Debug\netcoreapp3.1\делигаты.genruntimeconfig.cache

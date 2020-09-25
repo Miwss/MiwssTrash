@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.exe
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.deps.json
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.runtimeconfig.json
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.runtimeconfig.dev.json
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.dll
+C:\Users\user\source\repos\upperANDlower\upperANDlower\bin\Debug\netcoreapp3.1\upperANDlower.pdb
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.AssemblyInfo.cs
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.dll
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.pdb
+C:\Users\user\source\repos\upperANDlower\upperANDlower\obj\Debug\netcoreapp3.1\upperANDlower.genruntimeconfig.cache
