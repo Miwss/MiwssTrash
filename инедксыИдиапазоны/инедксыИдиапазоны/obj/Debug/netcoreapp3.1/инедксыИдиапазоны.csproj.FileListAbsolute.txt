@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.exe
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.deps.json
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.runtimeconfig.json
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.runtimeconfig.dev.json
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.dll
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\bin\Debug\netcoreapp3.1\инедксыИдиапазоны.pdb
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.csprojAssemblyReference.cache
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.AssemblyInfo.cs
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.dll
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.pdb
+C:\Users\user\source\repos\инедксыИдиапазоны\инедксыИдиапазоны\obj\Debug\netcoreapp3.1\инедксыИдиапазоны.genruntimeconfig.cache

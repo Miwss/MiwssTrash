@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.exe
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.deps.json
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.runtimeconfig.json
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.dll
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\bin\Debug\netcoreapp3.1\HomeWorkArray.pdb
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.dll
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.pdb
+C:\Users\user\source\repos\HomeWorkArray\HomeWorkArray\obj\Debug\netcoreapp3.1\HomeWorkArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.exe
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.deps.json
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.runtimeconfig.json
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.runtimeconfig.dev.json
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.dll
+C:\Users\user\source\repos\GetChoise\GetChoise\bin\Debug\netcoreapp3.1\GetChoise.pdb
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.AssemblyInfo.cs
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.dll
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.pdb
+C:\Users\user\source\repos\GetChoise\GetChoise\obj\Debug\netcoreapp3.1\GetChoise.genruntimeconfig.cache

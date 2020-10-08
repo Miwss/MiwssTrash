@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.exe
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.deps.json
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.runtimeconfig.json
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.runtimeconfig.dev.json
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.dll
+C:\Users\user\source\repos\doubleArray\doubleArray\bin\Debug\netcoreapp3.1\doubleArray.pdb
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.csprojAssemblyReference.cache
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.AssemblyInfo.cs
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.dll
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.pdb
+C:\Users\user\source\repos\doubleArray\doubleArray\obj\Debug\netcoreapp3.1\doubleArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.exe
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.deps.json
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.runtimeconfig.json
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.runtimeconfig.dev.json
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.dll
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\bin\Debug\netcoreapp3.1\СтупенчатыеМассивый.pdb
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.AssemblyInfo.cs
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.dll
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.pdb
+C:\Users\user\source\repos\СтупенчатыеМассивый\СтупенчатыеМассивый\obj\Debug\netcoreapp3.1\СтупенчатыеМассивый.genruntimeconfig.cache
